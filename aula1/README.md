@@ -60,7 +60,7 @@ Este projeto utiliza o TensorFlow para treinar um modelo de perceptron em um con
       source ~/.bashrc
       ```
    3.**Para saber mais sobre como configurar o TensorFlow e CUDA, veja:**
-     [README_CUDA_TENSORFLOW.md](caminho/para/o/diretorio/README_CUDA_TENSORFLOW.md).
+     [TensorFLow-CUDA.md](docs/assignments/TensorFLow-CUDA.md).
 
 ## Uso
 
