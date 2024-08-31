@@ -35,3 +35,7 @@ Os notebooks utilizam o dataset MNIST, que é carregado automaticamente através
 2. Abra os notebooks no seu ambiente de Jupyter Notebook ou similar.
 3. Execute as células para treinar e avaliar o modelo.
 
+## Autores
+
+Trabalho realizado por Franklin e Lucas Superti [@CommandPromptGamer].
+
