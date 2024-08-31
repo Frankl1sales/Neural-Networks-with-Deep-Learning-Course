@@ -37,5 +37,5 @@ Os notebooks utilizam o dataset MNIST, que é carregado automaticamente através
 
 ## Autores
 
-Trabalho realizado por **Franklin e Lucas Superti (https://github.com/CommandPromptGamer)**.
+Trabalho realizado por **Franklin** e **Lucas Superti [@CommandPromptGamer](https://github.com/CommandPromptGamer)**.
 
